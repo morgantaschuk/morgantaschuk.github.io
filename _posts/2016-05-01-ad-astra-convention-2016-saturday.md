@@ -3,9 +3,9 @@ layout: post
 title:  "Ad Astra Convention 2016 – Saturday"
 date:   2016-05-01
 excerpt: "Notes from the convention"
-image: "/images/2016-05-01-adastra.jpg"
----
 
+---
+<!--image: "/images/2016-05-01-adastra.jpg"-->
 In the interest of becoming a Real Author, I’ve been trying to network and get
 to know the local community of Toronto sci-fi and fantasy writers. I’d love to
 find a local group of SF&F writers to join to share tips, woes and stories. 
