@@ -1,60 +1,52 @@
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+# morgantaschuk.com
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip) and save it to any folder you want.
+These Github Pages are served at [morgantaschuk.com](www.morgantaschuk.com)
 
-Open a terminal window or a command line and ```cd``` to that location.
+## Installing all the Jekyll things
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+Because every time I start developing a Jekyll site, I seem to be on a new
+computer that doesn't have anything installed, and inevitably something goes
+wrong with Ruby.
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
+This time I'm installing on MacOS X High Sierra.
+
 ```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+brew install ruby
+gem install jekyll
+gem install bundler
+bundler install
 ```
 
-### Formspring.io Integration
-Formspring is supported out of the box! Just add your email to ```_config.yml```
+This time I got an error about the nokogiri library, which was resolved by
+reading [this
+page](http://www.nokogiri.org/tutorials/installing_nokogiri.html#mac_os_x)
 
-
-## Credits
-### Original README from HTML5 UP
 ```
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
+brew install libxml2
+gem install nokogiri -- --use-system-libraries   --with-xml2-include=$(brew --prefix libxml2)/include/libxml2)
+bundler install
 ```
+
+## Building
+
+
+*Local builds* : so that I can test stuff out before deploying. 
+
+    bundle exec jekyll serve
+
+
+## Credit
+
+Most of the content provided by me (@morgantaschuk). Where credit is due, I try
+to attribute it. If I'm using an image of yours by accident, please contact me
+and let me know (DMs on Twitter work).
+
+The original Jekyll theme is
+[Massively](https://github.com/iwiedenm/jekyll-theme-massively-src) by [HTML5
+UP](https://html5up.net). I've tweaked it to adjust the layout and remove
+features that I'm not using or ready to use.
+
+## License
+
+This site is licensed under [Creative Commons BY 4.0](LICENSE).
+
