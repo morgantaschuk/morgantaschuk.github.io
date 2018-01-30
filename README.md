@@ -1,6 +1,6 @@
 # morgantaschuk.com
 
-These Github Pages are served at [morgantaschuk.com](www.morgantaschuk.com)
+These Github Pages are served at [morgantaschuk.com](http://www.morgantaschuk.com)
 
 ## Installing all the Jekyll things
 
@@ -38,13 +38,13 @@ bundler install
 ## Credit
 
 Most of the content provided by me (@morgantaschuk). Where credit is due, I try
-to attribute it. If I'm using an image of yours by accident, please contact me
-and let me know (DMs on Twitter work).
+to attribute it. If I'm using an image or content of yours by accident, please 
+contact me and let me know (DMs on Twitter work best [@morgantaschuk]()).
 
 The original Jekyll theme is
 [Massively](https://github.com/iwiedenm/jekyll-theme-massively-src) by [HTML5
-UP](https://html5up.net). I've tweaked it to adjust the layout and remove
-features that I'm not using or ready to use.
+UP](https://html5up.net), jekyllized by [SOMIIBO](https://somiibo.com/). I've tweaked it to adjust the layout and remove
+features that I'm not using or ready to use. Please see the commit history for more details.
 
 ## License
 
