@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/morgantaschuk/morgantaschuk.github.io.svg)](https://travis-ci.org/morgantaschuk/morgantaschuk.github.io)
+
 # morgantaschuk.com
 
 These Github Pages are served at [morgantaschuk.com](http://www.morgantaschuk.com)
