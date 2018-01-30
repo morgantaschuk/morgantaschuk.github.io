@@ -43,9 +43,9 @@ Economies](http://critconfirm.com/good-gold-peculiarities-fantasy-economies/)
 but it’s not infinite. Don’t stretch your reader’s patience too far by failing
 to research some critical aspect of the world, e.g. how horses work
 * Cultural appropriation is a bad thing. If you write about a particular
-culture using common stereotypes, you are failing that culture. See: [JK Rowling
-under fire for writing about ‘Native American
-wizards’](http://www.theguardian.com/books/2016/mar/09/jk-rowling-under-fire-for-appropriating-navajo-tradition-history-of-magic-in-north-america-pottermore).
+culture using common stereotypes, you are failing that culture. See: [J.K.
+Rowling's History of Magic in North America Was a Travesty From Start to
+Finish](https://io9.gizmodo.com/j-k-rowlings-history-of-magic-in-north-america-was-a-t-1764311530) 
 Yes, you have to research this. When can you ignore it? Any time, but don’t be
 surprised when people call you out on it and you alienate some of your readers.
 * Long, unpronounceable names can alienate part of your readers, and why would
