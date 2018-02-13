@@ -48,6 +48,9 @@ The original Jekyll theme is
 UP](https://html5up.net), jekyllized by [SOMIIBO](https://somiibo.com/). I've tweaked it to adjust the layout and remove
 features that I'm not using or ready to use. Please see the commit history for more details.
 
+Background image is CC0 from [Free-Photos on
+Pixabay](https://pixabay.com/en/architecture-skyscraper-urban-city-768432/).
+
 ## License
 
 This site is licensed under [Creative Commons BY 4.0](LICENSE).

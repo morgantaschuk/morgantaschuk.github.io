@@ -3,7 +3,7 @@ remote_theme: iwiedenm/jekyll-theme-massively-src
 
 title:              Fifty Stories Later
 bio:                'Senior manager at OICR. Best things in life: bioinformatics, software dev, knitting, writing & dragons'
-description:        "Morgan trying to be a dev and running her own website"
+description:        "Morgan Taschuk"
 locale:             en_US
 
 
@@ -14,15 +14,3 @@ github:             morgantaschuk
 
 # personal
 location:           Toronto, ON
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - README.me 
-  - CNAME
-  - drafts
