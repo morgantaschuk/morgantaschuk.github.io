@@ -2,6 +2,7 @@
 layout: post
 title:  "Back to basics"
 date:   2012-06-27
+tags: writing
 excerpt: "Once upon a time, I was a good writer."
 ---
 

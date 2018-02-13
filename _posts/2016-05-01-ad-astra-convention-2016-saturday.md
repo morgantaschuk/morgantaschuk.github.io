@@ -2,6 +2,7 @@
 layout: post
 title:  "Ad Astra Convention 2016 – Saturday"
 date:   2016-05-01
+tags: writing
 excerpt: "Notes from the convention"
 
 ---

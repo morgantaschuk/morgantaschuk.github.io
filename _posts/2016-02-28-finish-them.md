@@ -2,6 +2,7 @@
 layout: post
 title:  "Finish them!"
 date:   2016-02-28
+tags: writing
 excerpt: "Finishing something has been the greatest hurdle for me as a writer"
 ---
 

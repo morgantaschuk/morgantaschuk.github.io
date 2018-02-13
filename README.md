@@ -36,6 +36,11 @@ bundler install
 
     bundle exec jekyll serve
 
+## Developing
+
+I'm putting notes about the modifications I'm making in [Developer
+Documentation](developer-docs.md).
+
 
 ## Credit
 

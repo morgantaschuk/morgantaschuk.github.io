@@ -2,6 +2,7 @@
 layout: post
 title:  "In 2016 I will be a real author"
 date:   2015-12-24
+tags: writing
 excerpt: "It’s been a long road back to writing. And clearly, that road didn’t involve blogging."
 ---
 

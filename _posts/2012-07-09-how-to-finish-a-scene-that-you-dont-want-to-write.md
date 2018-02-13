@@ -2,6 +2,7 @@
 layout: post
 title:  "How to finish a scene that you don't want to write"
 date:   2016-02-28
+tags: writing
 excerpt: "Hint: conflict"
 ---
 
