@@ -17,7 +17,7 @@ Informatics group. I've been promised that I'll have a website to link to "soon"
 Best to find me on Twitter when it's work-related:
 [@morgantaschuk](https://www.twitter.com/morgantaschuk)
 
-Otherwise: [LinkedIn](www.linkedin.com/in/morgantaschuk)
+Otherwise: [LinkedIn](https://www.linkedin.com/in/morgantaschuk)
 [Github](https://github.com/morgantaschuk) [Google Scholar](https://scholar.google.ca/citations?user=8Q7rEwYAAAAJ&hl=en)
 
 
