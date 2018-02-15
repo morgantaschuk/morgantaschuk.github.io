@@ -8,6 +8,12 @@ the front matter
 
     tags: writing all-the-other-tags
 
+## Adding instasgraam photos
 
+When making a post with an instagram photo, use this magic resolving URL:
+"https://instagram.com/p/XXXX/media/?size=l" where XXXX is the unique code from
+instagram. The size can be 't' for thumbnail, 'm' for medium, or 'l' for large.
+See [Developer Docs on
+embedding](https://www.instagram.com/developer/embedding/) for more deets.
 
 

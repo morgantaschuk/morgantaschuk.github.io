@@ -2444,8 +2444,8 @@
 
 		.image.fit {
 			display: block;
-			margin: 0.5rem 0; /* reduce the huge whitespace when a post doesn't have an image */
-			width: 100%; /* get posts to stretch across the page */
+			margin: 0.5rem 0; /* MT. reduce the huge whitespace when a post doesn't have an image */
+			width: 100%; /* MT: get post images to fill the space on the blog page */
 		}
 
 			.image.fit:first-child {
@@ -3665,12 +3665,12 @@
 			}
 
 			#main > .posts > * {
-				width: 100%; /* get posts to stretch across whole page*/
+				width: 33%; /* MT: get posts to appear in 3s*/
 			}
 
 			#main > .posts > * {
 				padding: 1rem;
-				width: 100%; /* get posts to stretch across whole page*/
+				width: 33%; /* MT. get posts to appear in 3s*/
 			}
 
 			#main > .posts > article {
@@ -3678,7 +3678,7 @@
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
-				text-align: left; /* left align everything on the blog pages */
+				text-align: left; /* MT. left align everything on the blog pages */
 			}
 
 				#main > .posts > article > :last-child {
@@ -3696,7 +3696,7 @@
 			@media screen and (max-width: 980px) {
 
 				#main > .posts > * {
-					width: 100%; /* get posts to stretch across whole page*/
+					width: 33%; /* MT. get posts to appear in 3s*/
 				}
 
 				#main > .posts > * {

@@ -30,9 +30,9 @@
 
 				<!-- Main -->
 				<div id="main">
-                <!--<header class="major">-->
+                <header class="major">
                     {{content}}
-                <!--</header>-->
+                </header>
 
 					<!-- Post -->
 					<section class="posts">
@@ -54,9 +54,9 @@
 								</header>
 								{% if post.image %} <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="{{ post.title }} image" /></a>{% endif %}
 								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
+								<!--<ul class="actions">
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
+								</ul>-->
 							</article>
                             {% endif %}
 						{% endfor %}
