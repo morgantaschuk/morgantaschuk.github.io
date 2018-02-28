@@ -11,8 +11,10 @@ sitemap:
 
 <!--<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>-->
 
-Moving hosting yet again because rolling my own Jekyll website sounds *so much easier* than figuring out how NameCheap's hosting service works.
+For half of her waking hours, Morgan Taschuk is Senior Manager of the Genome
+Sequence Informatics group at [Ontario Institute for Cancer
+Research](https://oicr.on.ca). The other
+half is spent in writing novels and doing crafty things. She lives in Toronto
+with her lovely husband who tolerates her ever-growing stash of yarn.
 
-By far the best place to find me on the web is on Twitter: [@morgantaschuk](https://twitter.com/morgantaschuk).
-
-
+Find her on Twitter: [@morgantaschuk](https://www.twitter.com/morgantaschuk).
