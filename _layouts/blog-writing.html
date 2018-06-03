@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+                <header class="major">
+                    {{content}}
+                </header>
+
+					<!-- Post -->
+					<div class="myrow">
+					<section class="column-left">
+						{% for post in site.posts %}
+                            {% assign tag = page.tags | firts %}
+                            {% if post.tags contains tag %}
+                                {% assign printme = true %}
+                            {% elsif page.url contains 'blog' %}
+                                {% assign printme = true %}
+                            {% else %}
+                                {% assign printme = false %}
+                            {% endif %}
+                            {% if printme == true %}
+						    {% assign mod4 = forloop.index | modulo: 4 %}
+							<article>
+								<header>
+									<span class="date">{{ post.date | date_to_string }}</span>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+								</header>
+								<p>{{ post.excerpt }}</p>
+								<!--<ul class="actions">
+									<li><a href="{{ post.url | absolute_url }}" class="button">Read more...</a></li>
+								</ul><-->
+							</article>
+                            {% endif %}
+						{% endfor %}
+
+					</section>
+
+					<section class="column-right">
+						<a class="twitter-timeline"
+							data-lang="en"
+							data-height="1500"
+							data-theme="light"
+							data-link-color="#E95F28"
+							href="https://twitter.com/50storieslater?ref_src=twsrc%5Etfw">
+								Tweets by 50storieslater
+						</a>
+						<script async src="https://platform.twitter.com/widgets.js"
+							charset="utf-8">
+						</script>
+					</section> <!--column-->
+				</div> <!--row-->
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>

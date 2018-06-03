@@ -17,4 +17,7 @@ Research](https://oicr.on.ca). The other
 half is spent in writing novels and doing crafty things. She lives in Toronto
 with her lovely husband who tolerates her ever-growing stash of yarn.
 
-Find her on Twitter: [@morgantaschuk](https://www.twitter.com/morgantaschuk).
+Yes, she has two Twitter accounts:
+
+- [@morgantaschuk](https://twitter.com/morgantaschuk), for programming and bioinformatics
+- [@50storieslater](https://twitter.com/50storieslater), for writing-related things

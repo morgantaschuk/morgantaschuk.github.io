@@ -3134,7 +3134,7 @@
             border-style: solid;
             border-color: #ffffff;
             border-width: 5px !important;
-            padding: 1rem 1.75rem; 
+            padding: 1rem 1.75rem;
 		}
 
 		#intro blockquote {
@@ -3607,6 +3607,24 @@
 			#main > .post.featured {
 				text-align: center;
 			}
+
+			#main > .myrow {
+					display: -ms-flexbox;
+					display: -webkit-flex;
+			    display: flex;
+					flex-wrap: wrap;
+			}
+
+			#main > .myrow > .column-left {
+    			float: left;
+    			flex: 75%;
+			}
+
+			#main > .myrow > .column-right {
+    			float: left;
+    			flex: 25%;
+			}
+
 
 			@media screen and (max-width: 1280px) {
 

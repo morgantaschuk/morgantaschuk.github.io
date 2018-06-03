@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blog-crafting
 title: Fifty Stories Later - crafting
 description: A woman on a mission
 tags: crafting
