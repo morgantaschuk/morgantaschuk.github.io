@@ -26,7 +26,7 @@ back as well.
 
 It doesn’t just move the plot forward, but it makes it compelling to both read
 AND write. [Write a Novel in 30
-Days](http://www.amazon.com/Write-Novel-Days-Sara-McGrath/dp/0615182364), by the
+Days](https://www.amazon.com/Write-Novel-Days-Sara-McGrath/dp/0615182364), by the
 creator of NaNoWriMo, encourages
 killing a character off when your story seems to stagnate. In the same way,
 throwing in someone angry, sneaky or just contrary can power up the scene again
@@ -54,4 +54,3 @@ really need to be conflict in every scene? Maybe at some point, the momentum of
 the story is enough to keep the pace of the story without needing that conflict.
 Maybe I need to flip through some novels to see what other authors do to keep
 that kind of thing on track.
-

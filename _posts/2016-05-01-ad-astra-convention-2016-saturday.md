@@ -9,8 +9,8 @@ excerpt: "Notes from the convention"
 <!--image: "/images/2016-05-01-adastra.jpg"-->
 In the interest of becoming a Real Author, I’ve been trying to network and get
 to know the local community of Toronto sci-fi and fantasy writers. I’d love to
-find a local group of SF&F writers to join to share tips, woes and stories. 
-[Ad Astra](http://www.ad-astra.org/about/) is, according to their website, a
+find a local group of SF&F writers to join to share tips, woes and stories.
+[Ad Astra](https://www.ad-astra.org/about/) is, according to their website, a
 “science fiction, fantasy and horror event with a focus on authors”. Perfect.
 
 Today was the main Con day, and it was great! In trying to treat this like a
@@ -19,7 +19,7 @@ real job, I have notes on the panels and events I attended.
 Each event has a tl;dr that was my main takeaway from the panel, with full notes
 below.
 
-## Crafting a Believable Alternate History. 
+## Crafting a Believable Alternate History.
 Panelists: Charlotte Ashley, Dominik Parisien, Jack Whyte, Kate Story, Stephen
 Kotowych
 
@@ -36,8 +36,8 @@ Read everything you can read on it until you think you know everything, and then
 read a few more books.
 * If your story is not in a historical context, you should still know how
 things like economies work so that you can make a believable one. See: [Good as
-Gold: Peculiarities of Fantasy 
-Economies](http://critconfirm.com/good-gold-peculiarities-fantasy-economies/)
+Gold: Peculiarities of Fantasy
+Economies](https://critconfirm.com/good-gold-peculiarities-fantasy-economies/)
 * Nobody else can do your research for you
 * You might not know exactly what you need to know before you start writing.
 * In SF&F, you have a slightly longer tether when it comes to believability,
@@ -46,13 +46,13 @@ to research some critical aspect of the world, e.g. how horses work
 * Cultural appropriation is a bad thing. If you write about a particular
 culture using common stereotypes, you are failing that culture. See: [J.K.
 Rowling's History of Magic in North America Was a Travesty From Start to
-Finish](https://io9.gizmodo.com/j-k-rowlings-history-of-magic-in-north-america-was-a-t-1764311530) 
+Finish](https://io9.gizmodo.com/j-k-rowlings-history-of-magic-in-north-america-was-a-t-1764311530)
 Yes, you have to research this. When can you ignore it? Any time, but don’t be
 surprised when people call you out on it and you alienate some of your readers.
 * Long, unpronounceable names can alienate part of your readers, and why would
 you do that?
 
-## Common Writing Mistakes from an Editor’s Perspective. 
+## Common Writing Mistakes from an Editor’s Perspective.
 Panelists: Dominik Parisien, Linda Poitevin, Nina Munteanu
 
 *TL;DR. Your editor is one of your first readers. All of the rules of writing
@@ -122,7 +122,7 @@ only competitor who was steampunk’d up, took the prize: A all-in-one Downton
 Abbey commemorative teacup.
 
 Apparently it’s a whole thing at steampunk cons. See: [How to become a tea
-duelist](http://steampunk.wonderhowto.com/how-to/become-tea-duellist-0140892/)
+duelist](https://steampunk.wonderhowto.com/how-to/become-tea-duellist-0140892/)
 
 ## Dealer’s Room
 
@@ -151,7 +151,7 @@ Leslie Hudson
 Trek album coming out soon. She played some of the music off it and it sounds
 awesome.*
 
-## Artemis suite. 
+## Artemis suite.
 Artemis Second Light Division, Hamilton ON
 
 *TL;DR. I spent way more time than I expected working together with four other

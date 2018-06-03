@@ -16,7 +16,7 @@ Since Getting Published is one of those big life goals that is intimidatingly la
 * Take a short story writing class: I will shortly be registered in the University of Toronto’s continuing education short story class. Because weekly deadlines are amazing.
 * Complete at least one story per month: This seems low but I want to shoot for something attainable to start.
 * Find likely magazines to submit to: I’ll find these as part of #1 and note them and their requirements down for future reference.
-* Submit to the U of T’s writing competition: The teacher in my writing course recommended [this competition](http://learn.utoronto.ca/courses-programs/creative-writing/bursaries-awards/random-house-creative-writing-award). The deadline should be slightly later in the year so I should have something by then.
+* Submit to the U of T’s writing competition: The teacher in my writing course recommended [this competition](https://learn.utoronto.ca/courses-programs/creative-writing/bursaries-awards/random-house-creative-writing-award). The deadline should be slightly later in the year so I should have something by then.
 * Blog! Because I should take notes somewhere, and maybe they’ll be helpful for other people too.
 
 A friend also suggested I put some of my writing up here too for kicks.

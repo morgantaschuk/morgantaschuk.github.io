@@ -42,7 +42,7 @@ workshop are working on “nurturing to completion” this spring and summer. Ev
 two weeks, I need to produce 2000-3000 semi-finished words. Hooray deadlines!
 
 On the Writing Excuses episode [Moving
-On](http://www.writingexcuses.com/2015/12/27/writing-excuses-10-52-moving-on-with-ellen-kushner/),
+On](https://www.writingexcuses.com/2015/12/27/writing-excuses-10-52-moving-on-with-ellen-kushner/),
 Howard Tayler said it best:
 
 > There are two principal differences between the working writer and the person

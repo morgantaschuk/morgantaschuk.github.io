@@ -8,7 +8,7 @@ the front matter
 
     tags: writing all-the-other-tags
 
-## Adding instasgraam photos
+## Adding instagram photos
 
 When making a post with an instagram photo, use this magic resolving URL:
 "https://instagram.com/p/XXXX/media/?size=l" where XXXX is the unique code from

@@ -8,7 +8,7 @@ excerpt: "I have started more than one blog in the past."
 
 
 I have lots of them rolling
-around – even a science blog next door that I spent ages conceptualizing, 
+around – even a science blog next door that I spent ages conceptualizing,
 [Modern Model Organism](https://modernmodelorganism.wordpress.com/). In every
 one, I had great intentions, and I dreamed of a day
 where I would master social networking and be one of the cool kids. Alas, my
@@ -20,7 +20,7 @@ interesting things that I learned from day to day. Admittedly the former was
 more appealing. I also established a Twitter feed for work, and a Friendfeed.
 
 In my day job as a
-[bioinformatician](http://en.wikipedia.org/wiki/Bioinformatics), I spend 8+
+[bioinformatician](https://en.wikipedia.org/wiki/Bioinformatics), I spend 8+
 hours immersed in science. And I
 like it! My job is thrilling on the best of days and merely frustrating on the
 worst of days. I only very rarely hate my work. As a scientist, I get to play
@@ -57,4 +57,3 @@ writing. Writing about writing, even. Writing is a lonely discipline, so having
 a blog will be a good outlet as I push myself to improve. And I have ideas for
 about 10 posts already. I just need to pace myself, and actually get some
 writing done at the same time!
-
