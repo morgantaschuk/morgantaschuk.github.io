@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Bioinformatics"
+    url: /bioinformatics/
+  - title: "Writing"
+    url: /writing/
+  - title: "Crafting"
+    url: /crafting/

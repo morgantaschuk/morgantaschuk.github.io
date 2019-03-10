@@ -1,11 +1,12 @@
 ---
-layout: post
 title:  "Fushimi Inari Papercraft"
 date:   2018-02-12
 excerpt: ""
-image: "https://instagram.com/p/BfFdilRBk1X/media/?size=l"
-tags: crafting
+categories: crafting
+header:
+  teaser: "https://instagram.com/p/BfFdilRBk1X/media/?size=l"
 ---
 
-[on Instagram](https://www.instagram.com/p/BfFdilRBk1X/)
+{% include figure image_path="https://instagram.com/p/BfFdilRBk1X/media/?size=l" alt="" caption="" %}
 
+[on Instagram](https://www.instagram.com/p/BfFdilRBk1X/)
