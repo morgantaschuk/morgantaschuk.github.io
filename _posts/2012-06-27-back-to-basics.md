@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Back to basics"
 date:   2012-06-27
 tags: writing

@@ -36,25 +36,13 @@ bundler install
 
     bundle exec jekyll serve
 
-## Developing
-
-I'm putting notes about the modifications I'm making in [Developer
-Documentation](developer-docs.md).
-
-
 ## Credit
 
 Most of the content provided by me (@morgantaschuk). Where credit is due, I try
 to attribute it. If I'm using an image or content of yours by accident, please
-contact me and let me know (DMs on Twitter work best [@morgantaschuk]()).
+contact me and let me know (DMs on Twitter work best [@morgantaschuk](https://www.twitter.com/morgantaschuk)).
 
-The original Jekyll theme is
-[Massively](https://github.com/iwiedenm/jekyll-theme-massively-src) by [HTML5
-UP](https://html5up.net), jekyllized by [SOMIIBO](https://somiibo.com/). I've tweaked it to adjust the layout and remove
-features that I'm not using or ready to use. Please see the commit history for more details.
-
-Background image is CC0 from [Free-Photos on
-Pixabay](https://pixabay.com/en/architecture-skyscraper-urban-city-768432/).
+Theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
 ## License
 

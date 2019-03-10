@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Writing a language generator"
 date:   2012-02-29
 excerpt: "So I made up my own language"
