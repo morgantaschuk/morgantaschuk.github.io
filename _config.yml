@@ -1,0 +1,51 @@
+# site settings
+title: Fifty Stories Later
+subtitle: Morgan Taschuk
+email: mtaschuk@gmail.com
+description: Bioinformatics<br/>Crafting<br/>Writing Science Fiction and Fantasy
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Morgan Taschuk
+street_address:
+city: Toronto
+state: Ontario
+zip_code:
+country: Canada
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/morgantaschuk
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com/ssgoosecookie
+linkedin_url: https://www.linkedin.com/in/morgantaschuk/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/morgantaschuk
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
