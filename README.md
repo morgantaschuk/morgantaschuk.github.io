@@ -42,7 +42,15 @@ Most of the content provided by me (@morgantaschuk). Where credit is due, I try
 to attribute it. If I'm using an image or content of yours by accident, please
 contact me and let me know (DMs on Twitter work best [@morgantaschuk](https://www.twitter.com/morgantaschuk)).
 
-Theme is [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
+Theme: [A Jekyll version of the "Forty" theme](https://github.com/andrewbanchich/forty-jekyll-theme), original design by [HTML5 UP](https://html5up.net/).
+
+Image Credits
+
+* Typewriter Photo by Patrick Fore on Unsplash
+* Macbook with code Photo by Caspar Camille Rubin on Unsplash
+* Crochet and notebook Photo by Giulia Bertelli on Unsplash
+* Writing Photo by Lukas Blazek on Unsplash
+
 
 ## License
 
